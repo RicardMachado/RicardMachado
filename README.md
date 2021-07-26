@@ -1,8 +1,7 @@
 
-👋 Hi, I’m Ricardo Machado - @RicardMachado
-🔭 I'm not currently working, just studying programming.
-🌱 I’m currently learning NodeJs.![clipart1955753](https://user-images.githubusercontent.com/62800593/126984774-27ff4fc4-03aa-4d81-96ca-672a3193305e.png)
-
+- 👋 Hi, I’m Ricardo Machado - @RicardMachado
+- 🔭 I'm not currently working, just studying programming.
+- 🌱 I’m currently learning NodeJs.<img src="https://www.clipartmax.com/png/small/113-1139491_scalable-vector-graphics-wikip%C3%A9dia-node-js-logo-png.png" alt="Scalable Vector Graphics Wikipédia - Node Js Logo 
 
 
 - 👯 I’m looking to collaborate on ...
