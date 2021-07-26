@@ -1,13 +1,10 @@
 
 - 👋 Hi, I’m Ricardo Machado - @RicardMachado
 - 🔭 I'm not currently working, just studying programming.
-- 🌱 I’m currently learning NodeJs.![node-js-logo](https://user-images.githubusercontent.com/62800593/126985241-b67ee35f-193e-465a-8b73-2833cb3592ec.png)
+- 🌱 I’m currently learning NodeJs e ReactJS
+- ⚡ Skills:
+- {
+-   [HTML, CSS, JavaScript, TypeScript, SQL, Others]
+- }
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me: www.linkedin.com/in/ricardmachado
