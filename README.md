@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Ricardo Machado - @RicardMachado
+## 👋 Olá! Me chamo Ricardo Machado - @RicardMachado
 
 <div align="center">
   <a href="https://github.com/RicardMachado">
